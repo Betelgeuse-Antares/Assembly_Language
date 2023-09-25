@@ -1,5 +1,5 @@
 ;hello_world.asm
-;Author: Raghavvram J
+;Author: Ram
 ;Date: 04-06-2023
 
 global _start
